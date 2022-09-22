@@ -1,0 +1,11 @@
+{
+    "name":"timeout-simulator",
+    "web":{
+        "http":{
+            "port":"6969"
+        },
+        "rewrites":{
+            "enable":true
+        }
+    }
+}

@@ -1,0 +1,5 @@
+# General Ignores + IDE
+.DS_Store
+settings.xml
+WEB-INF
+.vscode
