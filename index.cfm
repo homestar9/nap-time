@@ -24,7 +24,7 @@ sleep( sleepSeconds * 1000 );
 writeOutput(
 	serializeJSON( {
 		"data"    : "",
-		"message" : "What a nice #sleepSeconds# second nap",
+		"messages" : [ "What a nice #sleepSeconds# second nap" ],
 		"error"   : false
 	} )
 );

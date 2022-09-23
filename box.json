@@ -1,0 +1,62 @@
+{
+    "author":"Angry Sam Productions, Inc.",
+    "bugs":"https://github.com/homestar9/nap-time/issues",
+    "changelog":"https://github.com/homestar9/nap-time",
+    "contributors":[],
+    "dependencies":{},
+    "description":"An app that will sleep for a specified amount of time and then return a response. Useful for testing timeout handling in your other apps.",
+    "devDependencies":{
+        "testbox":"^4.5.0+5"
+    },
+    "documentation":"",
+    "homepage":"https://github.com/homestar9/nap-time",
+    "ignore":[
+        "**/.*",
+        "/test/",
+        "/tests/"
+    ],
+    "installPaths":{
+        "testbox":"testbox/"
+    },
+    "instructions":"",
+    "keywords":[],
+    "license":[
+        {
+            "type":"MIT",
+            "URL":"https://github.com/homestar9/nap-time/blob/master/LICENSE.md"
+        }
+    ],
+    "location":"forgeboxStorage",
+    "name":"Nap Time",
+    "private":false,
+    "projectURL":"https://github.com/homestar9/nap-time",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/homestar9/nap-time"
+    },
+    "scripts":{},
+    "shortDescription":"A sweet package",
+    "slug":"nap-time",
+    "testbox":{
+        "bundles":"",
+        "directory":"tests.specs",
+        "excludes":"",
+        "labels":"",
+        "options":{},
+        "recurse":true,
+        "reporter":"",
+        "runner":[
+            {
+                "default":""
+            }
+        ],
+        "testBundles":"",
+        "testSpecs":"",
+        "testSuites":"",
+        "verbose":true,
+        "watchDelay":500,
+        "watchPaths":"**.cfc"
+    },
+    "type":"modules",
+    "version":"1.0.0"
+}
