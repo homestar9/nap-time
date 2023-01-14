@@ -1,8 +1,10 @@
 # Nap Time
 
-![Teddy Bear Taking a Nap](./nap-time.svg)
+![Teddy Bear Taking a Nap](https://github.com/homestar9/nap-time/blob/master/nap-time.svg?raw=true)
 
-This simple app will sleep for a specified amount of time and then return a response.  It is useful for testing timeouts in other applications, or API wrappers when you need to simulate a slow response for your own timeout handling.
+_The laziest app you've ever used. Guaranteed, or your money back._
+
+This simple app will sleep for a specified amount of time and then return a generic response.  Nap Time is useful tool for when you need to simulate slow third-party server responses or handling timeouts in your API wrappers or other apps.
 
 ## Usage
 
