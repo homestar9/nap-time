@@ -4,7 +4,7 @@
 
 _The laziest app you've ever used. Guaranteed, or your money back._
 
-This simple app will sleep for a specified amount of time and then return a generic response.  Nap Time is useful tool for when you need to simulate slow third-party server responses or handling timeouts in your API wrappers or other apps.
+This simple app will sleep for a specified amount of time and then return a generic response.  Nap Time is a useful tool for when you need to simulate slow third-party server responses or handle timeouts in your API wrappers.
 
 ## Usage
 
