@@ -13,7 +13,19 @@ This simple app will sleep for a specified amount of time and then return a gene
 - Make a request to the server and append the number of seconds you want to sleep for in the path like this `http://127.0.0.1:{port}/{sleep}/`
 - Example: http://127.0.0.1:6969/60/
 
-The server will sleep for the number of seconds specified in the `sleep` parameter and then return a generic response.  The default sleep time is set to 30 seconds if no `sleep` parameter is specified in the path.
+The server will sleep for the number of seconds specified in the `sleep` parameter and then return a generic JSON response object.  The default sleep time is set to 30 seconds if no `sleep` parameter is specified in the path.
+
+## Sample Response
+
+```
+{
+    error: false,
+    data: "",
+    messages: [
+        "What a nice 30 second nap"
+    ]
+}
+```
 
 ## About the Author
 
