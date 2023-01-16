@@ -1,5 +1,5 @@
 {
-    "name":"timeout-simulator",
+    "name":"nap-time",
     "web":{
         "http":{
             "port":"6969"
